@@ -14,6 +14,9 @@ Seeed Studio Xiao nrf52840 Sense https://www.seeedstudio.com/Seeed-XIAO-BLE-Sens
 10 jumper cables
 3d printed enclosure
 
+# 3d parts
+https://www.thingiverse.com/thing:5891091
+
 # Contact
 Roni Bandini @ronibandini
 
