@@ -179,7 +179,7 @@ void loop(void) {
           Serial.println("error opening file");
         }
         compiledLines="";
-        myCounter=0
+        myCounter=0;
                     
         }// counter limit
         else{
